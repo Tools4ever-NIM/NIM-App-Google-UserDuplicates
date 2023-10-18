@@ -1,2 +1,9 @@
 # NIM-App-Google-UserDuplicates
-Report on AD User Duplicates based on custom schema field
+
+# Description
+Report for Duplicated Users in Google Workspace by ID
+
+# Requirements
+- Systems
+    - Google Workspace named "Google"
+    
