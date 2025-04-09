@@ -8,4 +8,4 @@ Report for Duplicated Users in Google Workspace by ID
     - Google Workspace named "Google"
     
 # Screenshots
-![image](https://github.com/user-attachments/assets/4fd96b6f-d7ef-411b-87b4-f67bd02f7d1c)
+![image](https://github.com/user-attachments/assets/c0b4bcfe-5bf6-48fe-9a22-ddee668b5b70)
